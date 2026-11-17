@@ -1,0 +1,6 @@
+{
+  "name": "Controle Financeiro Mensal",
+  "description": "Planilha de controle financeiro mensal com rendimentos, despesas fixas, gastos variáveis e gráfico comparativo do saldo final.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

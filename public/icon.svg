@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F766E" />
+  <rect x="96" y="112" width="320" height="288" rx="28" fill="#FFFFFF" />
+  <rect x="96" y="112" width="320" height="72" rx="28" fill="#0F172A" />
+  <rect x="96" y="156" width="320" height="28" fill="#0F172A" />
+  <circle cx="144" cy="148" r="10" fill="#14B8A6" />
+  <rect x="172" y="140" width="128" height="16" rx="8" fill="#E2E8F0" />
+  <!-- Spreadsheet grid lines & comparative bars -->
+  <rect x="132" y="218" width="92" height="18" rx="6" fill="#CBD5E1" />
+  <rect x="132" y="254" width="124" height="18" rx="6" fill="#CBD5E1" />
+  <rect x="132" y="290" width="84" height="18" rx="6" fill="#CBD5E1" />
+  <rect x="132" y="326" width="110" height="18" rx="6" fill="#0F766E" />
+  <!-- Mini comparative bars on right -->
+  <rect x="292" y="230" width="24" height="128" rx="6" fill="#059669" />
+  <rect x="326" y="274" width="24" height="84" rx="6" fill="#D97706" />
+  <rect x="360" y="256" width="24" height="102" rx="6" fill="#0F766E" />
+</svg>
